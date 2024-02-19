@@ -1,4 +1,4 @@
-# FullStackApp-with-SpringBoot-MySQL-Angular
+# FullStackApp-with-SpringBoot-MySQL-Thymleaf
 
 - `springboot-thymeleaf-crud`: A back-end  built with Spring Boot,Hibernate,Thymleaf,and MySQL.
 
